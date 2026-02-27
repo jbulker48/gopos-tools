@@ -1,0 +1,17 @@
+- 1-2-3 Sırayla çalıştırılacak.
+- 1. çalıştırılırken ankara-yedek birlikte, diğerleri teker teker çekilecek.
+- Verilerden silinecek olanlar:
+	- Sunucu (a)
+	- Veritabanı (b)
+	- Mekan Adı (m)
+- Daha sonra 3. çalıştırılacak,
+- Updated olanlar server1, server2, server3 diye ayrılacak
+- isletmeler tarih-saat silinecek
+- hepsi ilgili ayın klasörü oluşturulup, rar olarak atılacak.
+	- sadik.sekibag@estima.com.tr
+	- sinem.magdenoglu@estima.com.tr
+	- melek.sinan@estima.com.tr
+	- emre.gurol@estima.com.tr
+- Ardından 36000₺ (kdv %20 dahil) fatura oluşturulacak,
+	- otp-eylul
+	- muhasebe@estima.com.tr
