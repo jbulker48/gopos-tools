@@ -459,6 +459,7 @@ def run_transfer_flow(source_data, v2_user, v2_pass):
                     price_input = driver_dest.find_element(By.XPATH, "/html/body/div/div[2]/main/div/div[2]/div/div[2]/form/div[1]/div[2]/div[2]/div[2]/div[2]/div[2]/div[3]/input")
                     price_input.clear()
                     price_input.send_keys(p_price)
+                    time.sleep(0.5)
                     
                     save_prod_btn = driver_dest.find_element(By.XPATH, "/html/body/div/div[2]/main/div/div[2]/div/div[2]/form/div[2]/button[2]")
                     safe_click(driver_dest, save_prod_btn)
